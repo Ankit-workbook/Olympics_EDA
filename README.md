@@ -21,8 +21,7 @@ The United States has secured approximately 1,000 more gold medals than its clos
 When examining the total medal count (gold, silver, and bronze combined), a similar pattern of dominance emerges:
 
 - **United States**: Leads with approximately 140 medals in the analyzed period
-- **Great Britain**: Second with approximat![gender](https://github.com/user-attachments/assets/a4305f6b-80f4-4f85-bdf3-b8ab5d5fc9c2)
-ely 60 medals
+- **Great Britain**: Second with approximatly 60 medals
 - **Russia**: Third with approximately 50 medals
 - **Germany**: Fourth with approximately 45 medals
 - **China**: Fifth with approximately 40 medals
@@ -98,12 +97,17 @@ There is a noticeable increase in female participation from 1990 to 2000.
 
 The data shows a significant jump in 2020, suggesting a growing trend of female participation in recent years.
 
+
 **Gender Distribution**
 The gender distribution pie chart highlights the proportion of male and female athletes.
 
 Males constitute 72.5% of the participants, while females make up 27.5%.
 
 This indicates a gender disparity in participation, with a higher representation of male athletes.
+
+
+![gender](https://github.com/user-attachments/assets/282087e3-732a-479a-a36d-cf7146bc89d8)
+
 
 
 
