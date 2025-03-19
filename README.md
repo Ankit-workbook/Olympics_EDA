@@ -1,6 +1,7 @@
 # Olympic Games Data Analysis Report
 
-![medals](https://github.com/user-attachments/assets/214587fc-cead-4c5b-86d7-fde564db02d4)
+![medal](https://github.com/user-attachments/assets/97967ffa-f96d-43be-ae29-4ef84f06d2f1)
+
 
 
 ## Executive Summary
