@@ -1,5 +1,8 @@
 # Olympic Games Data Analysis Report
 
+![medals](https://github.com/user-attachments/assets/214587fc-cead-4c5b-86d7-fde564db02d4)
+
+
 ## Executive Summary
 This report presents a comprehensive analysis of Olympic Games data across multiple dimensions, including medal distribution by country, participation trends, gender representation, and sport-specific performance. The analysis reveals the United States as the dominant force in Olympic history, both in medal count and athlete participation. The data also highlights the dramatic increase in women's participation over the past century, reflecting the evolving inclusivity of the Games. Key sports like Archery show consistent medal production across the analyzed 60-year period.
 
