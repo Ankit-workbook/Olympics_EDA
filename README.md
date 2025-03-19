@@ -21,7 +21,8 @@ The United States has secured approximately 1,000 more gold medals than its clos
 When examining the total medal count (gold, silver, and bronze combined), a similar pattern of dominance emerges:
 
 - **United States**: Leads with approximately 140 medals in the analyzed period
-- **Great Britain**: Second with approximately 60 medals
+- **Great Britain**: Second with approximat![gender](https://github.com/user-attachments/assets/a4305f6b-80f4-4f85-bdf3-b8ab5d5fc9c2)
+ely 60 medals
 - **Russia**: Third with approximately 50 medals
 - **Germany**: Fourth with approximately 45 medals
 - **China**: Fifth with approximately 40 medals
@@ -87,6 +88,8 @@ The age distribution chart shows the number of participants across different age
 The highest number of participants is observed in the 20-30 age range, with a peak around the mid-20s.
 
 Participation decreases significantly after the age of 40, with very few athletes competing in the 60-80 age range.
+
+
 
 **Female Athletes Over Time**
 The plot indicates the number of female athletes participating in the Olympics from 1990 to 2020.
